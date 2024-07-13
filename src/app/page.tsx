@@ -1,7 +1,7 @@
 "use client"
 const HomePage = () => {
   return (
-    <div>Plura</div>
+    <div>PLURA</div>
   )
 }
 
